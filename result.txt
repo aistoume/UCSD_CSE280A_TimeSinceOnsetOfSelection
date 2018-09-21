@@ -1,0 +1,20 @@
+================ RESTART: E:\CSE280A project\predicting_s1.py ================
+(0.001975, 4733.050000190735)
+================ RESTART: E:\CSE280A project\predicting_s2.py ================
+(0.99575, 767.962000131607)
+================ RESTART: E:\CSE280A project\predicting_s3.py ================
+(0.9959090909090909, 285.9489998817444)
+================ RESTART: E:\CSE280A project\predicting_s5.py ================
+(0.9965, 70.90300011634827)
+=============== RESTART: E:\CSE280A project\predicting_s10.py ===============
+(0.9975, 5.0309998989105225)
+================ RESTART: E:\CSE280A project\predicting_s2.py ================(train s2 + test1)
+(0.0022, 1374.1050000190735)
+================ RESTART: E:\CSE280A project\predicting_s2.py ================(train s2 + test3)
+(0.9945454545454545, 551.3329999446869)
+============== RESTART: E:\CSE280A project\predicting_tau200.py ==============
+(0.0149, 211.16999983787537)
+============== RESTART: E:\CSE280A project\predicting_tau500.py ==============
+(0.04425, 25.48799991607666)
+============= RESTART: E:\CSE280A project\predicting_tau1000.py =============
+(0.0955, 3.003000020980835)
